@@ -1,0 +1,16 @@
+2019-10-03 12:19:00.134172
+===
+ directory_path_1: .\1\**\*.
+ directory_path_2: .\2\**\*.
+ file_extensions: ['jpg', 'jpeg', 'bmp', 'tif', 'tiff', 'png']
+ max_height_1: 300
+ max_width_1: 300
+ max_height_2: 300
+ max_width_2: 300
+===
+ directory_path_1: 1
+ directory_path_2: 1
+ directory_path_1 * directory_path_2: 1
+===
+2019-10-03 12:19:00.634147
+Time taken for program: 0.49997472763061523
