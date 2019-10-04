@@ -30,14 +30,17 @@ Example of use
 --------------------------
 1. We indicate what graphics we want to compare with other graphics, e.g .:
 
-![Comparison - example 1](https://github.com/???/master/example1.png)
+![Comparison - example 1](https://github.com/sylwester-prymula/opencv_sift_flann_images_comparison/blob/master/example/1.jpg)
 
 2. In the folder where we have many different pictures are found:
 
-![Comparison - example 2](https://github.com/???/master/example2.png)
+![Comparison - example 2](https://github.com/sylwester-prymula/opencv_sift_flann_images_comparison/blob/master/example/2.jpg)
 
-The probability that these two images are the same: `9.255079006772009` \
-Number of key common points: `41`
+Feature matching: \
+![Feature matching](https://github.com/sylwester-prymula/opencv_sift_flann_images_comparison/blob/master/example/41.44144144144144_gp_92_t1_1.jpg_t2_2.jpg_uuid_b017597a-454e-43f8-9161-160ff48bda76.jpg)
+
+The probability that these two images are the same: `41.4414414414414` \
+Number of key common points: `92`
 
 Launching
 --------------------------
