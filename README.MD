@@ -36,7 +36,8 @@ Example of use
 
 ![Comparison - example 2](https://github.com/sylwester-prymula/opencv_sift_flann_images_comparison/blob/master/example/2.jpg)
 
-Feature matching: \
+Feature matching:
+
 ![Feature matching](https://github.com/sylwester-prymula/opencv_sift_flann_images_comparison/blob/master/example/41.44144144144144_gp_92_t1_1.jpg_t2_2.jpg_uuid_b017597a-454e-43f8-9161-160ff48bda76.jpg)
 
 The probability that these two images are the same: `41.4414414414414` \
