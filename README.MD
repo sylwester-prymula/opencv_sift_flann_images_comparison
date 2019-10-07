@@ -53,7 +53,8 @@ In the code, indicate the catalogs to compare: \
 or `'\*.'` (without searching subdirectories, only root folder)
 
 Catalog where the graphical representation of the comparison will be saved: \
-`dir_feature_matching = r'C:\feature_matching'`
+`dir_feature_matching = r'C:\feature_matching'` - create it manually \
+The files will be saved `if percentage_similarity > 2 and len(good_points) > 5`
 
 Currently, you can compare files with the extension: \
 `file_extensions = ['jpg', 'jpeg', 'bmp', 'tif', 'tiff', 'png']`
